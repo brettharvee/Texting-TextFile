@@ -1,0 +1,10 @@
+***Save Repo***
+git init
+git add . 
+git commit -m “Message”
+git commit -am “Message” and auto push
+
+***Push to GitHub***
+git remote add GitHubHTML https://github.com/brettharvee/New-HTML-Repo.git
+git remote
+git push -u GitHubHTML master
